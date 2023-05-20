@@ -1,0 +1,54 @@
+{
+    "items": [
+		{
+			"title": "The Beggining",
+			"image": "timelines/images/timeline1.jpg",
+			"day": "10",
+			"month": "09",
+			"year": "2012",
+			"time": "2012-2014",
+			"icon": "icon-graduation",
+			"content": "Curabitur blandit tempus. Maecenas sed diam eget risus varius blandit sit porta felis euismod semper."
+		},
+		{
+			"title": "The New Office",
+			"image": "timelines/images/timeline2.jpg",
+			"day": "10",
+			"month": "09",
+			"year": "2014",
+			"time": "2014-2016",
+			"icon": "icon-present",
+			"content": "Curabitur blandit tempus. Maecenas sed diam eget risus varius blandit sit porta felis euismod semper."
+		},
+		{
+			"title": "The New Building",
+			"image": "timelines/images/timeline3.jpg",
+			"day": "10",
+			"month": "09",
+			"year": "2016",
+			"time": "2016-2018",
+			"icon": "icon-globe",
+			"content": "Curabitur blandit tempus. Maecenas sed diam eget risus varius blandit sit porta felis euismod semper."
+		},
+		{
+			"title": "The Startup",
+			"image": "timelines/images/timeline4.jpg",
+			"day": "10",
+			"month": "09",
+			"year": "2018",
+			"time": "2018-2020",
+			"icon": "icon-briefcase",
+			"content": "Curabitur blandit tempus. Maecenas sed diam eget risus varius blandit sit porta felis euismod semper."
+		},
+		{
+			"title": "Company Ideas",
+			"image": "timelines/images/timeline5.jpg",
+			"day": "10",
+			"month": "09",
+			"year": "2020",
+			"time": "2020-now",
+			"icon": "icon-fire",
+			"content": "Curabitur blandit tempus. Maecenas sed diam eget risus varius blandit sit porta felis euismod semper."
+		}
+	]
+}
